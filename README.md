@@ -109,9 +109,7 @@ o
 ├── inventario.txt  # Arquivo que armazena os itens
 ├── styles.css      # Arquivo CSS para customização (opcional)
 └── assets/         # Pasta para imagens e recursos (opcional)
-
-[Captura de tela 2025-04-02 093158](https://github.com/user-attachments/assets/cf7eb4d5-7226-4f6a-ba97-eb1df2601c15)
 ```
-
+[Captura de tela 2025-04-02 093158](https://github.com/user-attachments/assets/cf7eb4d5-7226-4f6a-ba97-eb1df2601c15)
 
 
